@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <layout title="composant minimum">
+    	<!-- indique le titre et la description de notre composant 
+    	qui apparaîtront dans l'interface "menu" de Joomla -->
+        <message>Affiche simplement un message à l'écran</message>
+    </layout>
+</metadata>
