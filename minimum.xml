@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="1.6.0" method="upgrade">
+	<name>Minimum</name>
+	<authore>Julie</authore>
+	<creationDate>15-03-2014</creationDate>
+	<copyright>2014. Julie</copyright>
+	<license>GNU/GPL</license>
+	<authorEmail></authorEmail>
+	<authoreUrl></authoreUrl>
+	<version>3.2.0</version>
+	<description>Tutoriel 1 : Composant minimum MVC</description>
+	<files folder="site">
+	<filename>controller.php</filename>
+	<filename>index.html</filename>
+	<filename>minimum.php</filename>
+	<folder>models</folder>
+	<folder>views</folder>
+	</files>
+	 
+	<administration>
+	<menu>Minimum</menu>
+	</administration>
+</extension>
